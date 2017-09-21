@@ -1,0 +1,14 @@
+* {
+	box-sizing: border-box;
+}
+.jumbotron, .panel-body{
+	background-color: lightpink;
+}
+
+.panel-title{
+	background-color: white;
+}
+
+.choices{
+	background-color: lightgrey;
+}
