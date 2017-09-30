@@ -1,4 +1,3 @@
-//array of objects.  each element is an object containing a question, an array of choices, correct choice (which element of choices array)
 var allQuestions = [
 
 	{
@@ -8,7 +7,7 @@ var allQuestions = [
 	},
 	{
 			question : "Who are the two half-giants? (Male, Female?",
-			choices : "Hagrid","Madame Maxim","Harry","Hermione"],	
+			choices : ["Hagrid","Madame Maxim","Harry","Hermione"],	
 			correctChoice : 1
 	},
 	{
@@ -28,7 +27,7 @@ var allQuestions = [
 	},
 	{
 			question : "Who are the two half-giants? (Male, Female?",
-			choices : "Hagrid","Madame Maxim","Harry","Hermione"],	
+			choices : ["Hagrid","Madame Maxim","Harry","Hermione"],	
 			correctChoice : 1
 	},
 	{
@@ -48,7 +47,7 @@ var allQuestions = [
 	},
 	{
 			question : "Who are the two half-giants? (Male, Female?",
-			choices : "Hagrid","Madame Maxim","Harry","Hermione"],	
+			choices : ["Hagrid","Madame Maxim","Harry","Hermione"],	
 			correctChoice : 1
 	},
 	{
@@ -60,6 +59,6 @@ var allQuestions = [
 			question : "What is Hermione's middle name?",
 			choices : ["Jean","Abby","Diane","Gail","Pam"],	
 			correctChoice : 1
-	},
+	}];
 	
 			
